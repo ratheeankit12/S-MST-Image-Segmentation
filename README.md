@@ -22,7 +22,7 @@ abstract = "Image segmentation is a very important stage in various image proces
 ```
 
 
-![demo](./images/Fig_3.jpg | height=480)
+![demo](./images/Fig_3.jpg | width=100)
 
 ### Dependence:
 The code depends on the following third-party libraries:
