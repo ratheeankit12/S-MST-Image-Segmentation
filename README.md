@@ -21,7 +21,7 @@ abstract = "Image segmentation is a very important stage in various image proces
 }
 ```
 
-![demo1](./images/Fig_3.jpg){height="30%" width="30%"}
+<img src="./images/Fig_3.jpg" height="50%" width="50%">
 
 ### Dependence:
 The code depends on the following third-party libraries:
@@ -50,8 +50,7 @@ python Demo_segmentation.py
 ``labels = sequential_segmentation(img, m = 4, l = 200)``
 
 
-
-![demo2](./images/Fig_5.jpg){height="30%" width="30%"}
+<img src="./images/Fig_5.jpg" height="30%" width="30%">
 
 
 ## Reference:
